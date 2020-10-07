@@ -1,5 +1,5 @@
 # Homework 1
-
+> Due 10/18/2020
 ## Scope
 
 1. String Manipulation
