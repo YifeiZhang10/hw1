@@ -1,5 +1,5 @@
 # Homework 1
-> Due 10/18/2020
+> Due 10/20/2020 23:59:59 PDT
 ## Scope
 
 1. String Manipulation
